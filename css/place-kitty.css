@@ -1,8 +1,4 @@
 #kitty-1 {
-  
-}
-
-/*__write_selector_here__*/ {
   position: absolute;
   z-index: 1;
   top: 276px;
@@ -10,10 +6,6 @@
 }
 
 #kitty-2 {
-  
-}
-
-/*__write_selector_here__*/ {
   position: absolute;
   z-index: 2;
   top: 212px;
